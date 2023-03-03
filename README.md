@@ -12,12 +12,12 @@ Low-level fusion and Mid-level fusion of point clouds and images
 ## Low level fusion
 1. YOLO detections on video
 
-![Detections](https://github.com/abhijitmahalle/visual-sensor-fusion/blob/main/data/media/detections_1.gif)
+![Detections](https://github.com/abhijitmahalle/visual-sensor-fusion/tree/master/data/media/detections_1.gif)
 
 2. LiDAR points projection on image
 
-![LiDAR projection](https://github.com/abhijitmahalle/visual-sensor-fusion/blob/main/data/media/lidar_1.gif)
+![LiDAR projection](https://github.com/abhijitmahalle/visual-sensor-fusion/tree/master/data/media/lidar_1.gif)
 
 3. Fusion of LiDAR projections and YOLO detections
 
-![Fusion](https://github.com/abhijitmahalle/visual-sensor-fusion/blob/main/data/media/ouput1.gif)
+![Fusion](https://github.com/abhijitmahalle/visual-sensor-fusion/tree/master/data/media/ouput1.gif)
