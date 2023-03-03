@@ -1,7 +1,9 @@
-# Visual_Sensor_Fusion
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
+# Visual Sensor Fusion
 Low-level fusion and Mid-level fusion of point clouds and images
 
-## Steps to run
+## Instructions to run the code:
 1. Place images sequence (dir nam images) and pcd file (dir name points) in <input_dir>.
 2. Set data_path in main.py as <input_dir>
 3. Download YOLOv4 weights from [here](https://github.com/AlexeyAB/darknet/releases/download/darknet_yolo_v3_optimal/yolov4.weights) and place it inside yolo dir
